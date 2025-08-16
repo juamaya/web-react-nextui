@@ -3,6 +3,7 @@
   "homepage": "https://juamaya.github.io/web-react-nextui",
   "private": true,
   "version": "0.0.0",
+  "type":"module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build ",

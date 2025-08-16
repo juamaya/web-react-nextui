@@ -179,6 +179,7 @@ export default function DocsPage() {
 
 > BrowserRouter basename="/web-react-nextui"
 
+main.tsx
 
 ```js
 import React from "react";
